@@ -1,0 +1,52 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphone6781container0 {
+    margin-left: 49px;
+    margin-top: 50px;
+    width: 119px;
+    height: 119px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphone6781container0 {
+    margin-left: 100px;
+    margin-top: 102px;
+    width: 244px;
+    height: 244px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphone6781container0 {
+    margin-left: 120px;
+    margin-top: 123px;
+    width: 292px;
+    height: 292px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphone6781container0 {
+    margin-left: 157px;
+    margin-top: 160px;
+    width: 381px;
+    height: 381px
+  }
+}
